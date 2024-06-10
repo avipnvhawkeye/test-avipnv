@@ -1,4 +1,8 @@
 altair
 pandas
 streamlit
+replicate
 openai
+llama_index
+llama-cpp-python
+langchain
